@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Ajay Sharma
 
-An aspiring **Data Analyst & Data Scientist** passionate about transforming raw, messy datasets into structured relational databases and high-impact business intelligence solutions. I specialize in building end-to-end analytical pipelines—from programmatic data engineering in Python to advanced SQL querying and executive-ready interactive dashboards.
+An aspiring **Data Analyst & Data Scientist** passionate about transforming raw datasets into actionable business insights and scalable analytical solutions.
 
-* 🚀 **Currently Focusing On:** Advanced Data Analytics, Relational Database Optimization, and transitioning into Predictive Modeling & Machine Learning frameworks.
-* 🛠️ **Problem Solving Style:** Writing clean, standardized code and following consistent naming conventions (`snake_case`) to build reproducible data workflows.
+🚀 Currently focused on:
+- Advanced Data Analytics
+- SQL & Database Optimization
+- Machine Learning & Predictive Modeling
+- Business Intelligence & Dashboarding
 
 ---
 
@@ -11,10 +14,24 @@ An aspiring **Data Analyst & Data Scientist** passionate about transforming raw,
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Databases** | Python, SQL (MySQL, PostgreSQL) |
-| **Data Engineering & EDA** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning (Learning)** | Scikit-Learn, Predictive Modeling, Data Preprocessing |
-| **Data Visualization & BI** | Power BI (DAX, Interactive Bookmarks), Advanced Excel |
-| **Version Control & Tools** | Git, GitHub |
+| **Programming & Databases** | Python, SQL, MySQL, PostgreSQL |
+| **Data Analysis** | Pandas, NumPy, Data Cleaning, EDA |
+| **Visualization & BI** | Power BI, DAX, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-Learn, Predictive Modeling |
+| **Tools & Workflow** | Git, GitHub, Jupyter Notebook |
 
 ---
+
+## 📈 Currently Learning
+
+- Advanced SQL Optimization
+- Machine Learning Pipelines
+- Statistical Analysis
+- Feature Engineering
+- Data Warehousing
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: ajaysharma388@gmail.com
+- 
